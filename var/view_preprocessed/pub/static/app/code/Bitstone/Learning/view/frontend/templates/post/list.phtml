@@ -1,0 +1,1 @@
+<?php /** @var Bitstone\Learning\Block\Posts $block */ ?> <h1>Bitstone Posts</h1><?php foreach($block->getPosts() as $post): ?> <?php /** @var Bitstone\Learning\Model\Post */ ?> <h2><a href="<?php echo $block->getPostUrl($post);?>"><?php echo $post->getTitle(); ?></a></h2><p><?php echo $post->getContent(); ?></p><?php endforeach; ?>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Bitstone_Gridmenu::manager" title="Grid Menu" module="Bitstone_Gridmenu" sortOrder="10" resource="Bitstone_Gridmenu::manager"/>
+        <add id="Bitstone_Gridmenu::add_row" title="Grid List" module="Bitstone_Gridmenu" sortOrder="20" parent="Bitstone_Gridmenu::manager" action="grid/grid" resource="Bitstone_Gridmenu::add_row"/>
+    </menu>
+</config>

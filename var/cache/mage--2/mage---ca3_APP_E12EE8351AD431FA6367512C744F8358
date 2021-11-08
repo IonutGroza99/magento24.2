@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1636381724;s:6:"expire";i:1636388924;s:4:"tags";s:49:"ca3_STORE,ca3_CONFIG,ca3_COLLECTION_DATA,ca3_MAGE";}
+[{"store_id":"1","code":"en","website_id":"1","group_id":"1","name":"English","sort_order":"0","is_active":"1"},{"store_id":"2","code":"ro","website_id":"1","group_id":"1","name":"Romania","sort_order":"1","is_active":"1"}]

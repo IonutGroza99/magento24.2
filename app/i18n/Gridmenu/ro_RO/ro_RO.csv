@@ -1,0 +1,240 @@
+All,Toate
+None,Niciunul
+"Allowed Scopes","Scopuri Permise"
+"More permissions are needed to delete the ""%1"" item.","Sunt necesare mai multe permisiuni pentru a șterge elementul ""%1""."
+"You need more permissions to apply some of the rule updates.","Aveți nevoie de mai multe permisiuni pentru a aplica unele actualizări ale regulilor."
+"More permissions are needed to view this item.","Sunt necesare mai multe permisiuni pentru a vizualiza acest element."
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Această entitate trebuie să fie atribuită unei vizualizări din magazin. Verificați atribuirea entității și încercați din nou."
+"This item needs to be assigned to a store view.
+                Please select a website for this product in ""Product in Websites"".","Acest articol trebuie atribuit unei vizualizări din magazin.
+                Vă rugăm să selectaţi un site web pentru acest produs în ""Produs în website-uri""."
+"Orders can only be completed in an active store. Verify the store and try again.","Comenzile pot fi finalizate numai într-un magazin activ. Verificați magazinul și încercați din nou."
+"This item needs to be assigned to a store view. Assign item and try again.","Acest element trebuie să fie atribuit unei vizualizări din magazin. Atribuiți elementul și încercați din nou."
+"More permissions are needed to save this item.","Sunt necesare mai multe permisiuni pentru a salva acest element."
+"More permissions are needed to delete this item.","Sunt necesare mai multe permisiuni pentru a șterge acest element."
+"At least one website or store group needs to be selected. Select and try again.","Trebuie selectat cel puțin un site web sau un grup de magazine. Selectați și încercați din nou."
+"More permissions are needed to set All Scopes to a Role.","Sunt necesare mai multe permisiuni pentru a seta toate codurile la un rol."
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","ID-ul site-ului ""%1"" este incorect. Verificaţi ID-ul website-ului şi încercaţi din nou."
+"You need more permissions to access website ""%1"".","Aveți nevoie de mai multe permisiuni pentru a accesa site-ul web ""%1""."
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","ID-ul magazinului ""%1"" este incorect. Verificați ID-ul magazinului și încercați din nou."
+"More permissions are needed to save this setting.","Sunt necesare mai multe permisiuni pentru a salva această setare."
+"Role Scopes","Scopuri de rol"
+Custom,Personalizat
+"Read Details","Citire detalii"
+"Mark as Read","Marchează ca Citit"
+"Are you sure?","Eşti sigur(ă)?"
+Remove,Elimină
+"Messages Inbox",Mesaje
+"You have %1 new system messages","Aveţi %1 mesaj(e) personal(e) nou(i)"
+"You have %1 new system message","Aveţi %1 mesaj personal nou"
+"Incoming Message","Mesaj primit"
+close,închide
+Notifications,Notificări
+"The message has been marked as Read.","Mesajul a fost marcat drept citit."
+"We couldn't mark the notification as Read because of an error.","Nu am putut marca notificarea ca citită din cauza unei erori."
+"Please select messages.","Vă rugăm selectați mesajele."
+"A total of %1 record(s) have been marked as Read.","Un total de %1 înregistrări au fost marcate drept citite."
+"Total of %1 record(s) have been removed.","Un total de %1 înregistrări au fost șterse."
+"We couldn't remove the messages because of an error.","Nu am putut elimina mesajele din cauza unei erori."
+"The message has been removed.","Mesajul a fost șters."
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Ați vizualizat și rezolvat toate notificările recente de sistem. Vă rugăm să reîncărcați pagina web pentru a șterge alerta de notificare."
+"1 Hour","1 oră"
+"2 Hours","2 ore"
+"6 Hours","6 ore"
+"12 Hours","12 ore"
+"24 Hours","24 ore"
+critical,critic
+notice,înștiințare
+"Wrong message type","Tipul de mesaj este greșit"
+"Wrong notification ID specified.","ID-ul notificării specificat este greșit."
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} nu este recomandat să fie utilizat într-un mediu de producție pentru a declara URL-ul de bază nesecurizat / URL-ul securizat de bază. Vă recomandăm să schimbați această valoare în configurația Magento <a href=""%1""></a>."
+"One or more of the Cache Types are invalidated: %1. ","Unul sau mai multe tipuri de cache sunt invalidate: %1. "
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Te rugăm să mergi la <a href=""%1"">Management cache</a> şi să reîmprospătezi tipurile de cache-uri."
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","Nu s-a putut sincroniza unul sau mai multe fișiere media. Vă rugăm să consultaţi fişierul jurnal pentru detalii."
+"Synchronization of media storages has been completed.","Sincronizarea spatiului de stocare media a fost finalizată."
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Serverul dvs web este configurat incorect şi permite accesul neautorizat la fişierele sensibile. Vă rugăm să contactaţi furnizorul de găzduire."
+"System Messages:","Mesaje de sistem:"
+"Critical System Messages","Mesaje critice de sistem"
+"Major System Messages","Mesaje majore de sistem"
+"System messages","Mesaje de sistem"
+Close,Inchide
+"See All (","Vezi tot ("
+" unread)"," necitite)"
+"System Messages","Mesaje de sistem"
+"Show Toolbar","Arată bara de instrumente"
+"Show List","Arată lista"
+"Use HTTPS to Get Feed","Folosește HTTPS pentru a obține Feed"
+"Update Frequency","Frecvența de actualizare"
+"Last Update","Ultima actualizare"
+Severity,Severitate
+"Date Added","Data Adăugării"
+Message,Mesaj
+Actions,Acțiuni
+"Manage Shopping Cart","Gestionează coşul de cumpărături"
+"Create Order","Creare comandă"
+Back,Inapoi
+"Add Products","Adauga Produse"
+"Update Items and Quantities","Actualizeaza produsele si cantitatea"
+"Are you sure you want to clear your cart?","Esti sigur ca doresti sa golesti cosul?"
+"Clear my shopping cart","Goleste cosul de cumparaturi"
+"Add selections to my cart","Adauga produsele selectate in cos"
+Cancel,Anuleaza
+"Shopping Cart for %1 in %2","Coș de cumpărături pentru %1 în %2"
+"Select products you want to buy","Selectați produsele pe care doriți să le cumpărați"
+Product,Produs
+Price,Preț
+Quantity,Cantitate
+"Products in the Comparison List (%1)","Produse din lista de comparație (%1)"
+"Last ordered items (%1)","Ultimele articole comandate (%1)"
+Products,Produse
+SKU,"Cod produs"
+"Recently Compared Products (%1)","Produse recent comparate (%1)"
+"Recently Viewed Products (%1)","Produse vizualizate recent (%1)"
+"Add to Shopping Cart by SKU","Adauga la cosul de cumparaturi cu cod produs"
+"Add to Shopping Cart","Adaugă în coș"
+"Wish List (%1)","Listă de Dorințe (%1)"
+Apply,Aplică
+Configure,Configurează
+"Add to Order by SKU","Adaugă la comandă prin cod produs"
+"Add to Order","Adaugă la comandă"
+"Add Products to Order","Adaugă produse la comandă"
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> produs(e) necesită atenție</span>"
+"Remove All","Elimină tot"
+"Only %1%2%3 left in stock","Doar %1%2%3 rămas în stoc"
+"You can buy up to %1 of these per purchase.","Poți cumpăra până la %1 din acestea per achiziție."
+"You must buy at least %1 of these per purchase.","Trebuie să cumperi cel puțin %1 din acestea per achiziție."
+"Specify the product's options.","Specificați opțiunile produsului."
+"Alert me when this item is available.","Avertizează-mă când acest articol este disponibil."
+"This customer couldn't be found. Verify the customer and try again.","Acest client nu a putut fi găsit. Verificați clientul și încercați din nou."
+"Shopping cart management is disabled for this customer.","Administrarea cosului este dezactivata pentru acest client."
+"This store couldn't be found. Verify the store and try again.","Nu s-a putut găsi magazinul. Verificați magazinul și încercați din nou."
+Customers,Clienți
+"Shopping Cart","Coș de cumpărături"
+Root,Rădăcină
+Delete,Ştergere
+"Are you sure you want to delete this category?","Sunteţi sigur că doriţi să ştergeţi categoria?"
+Save,Salvează
+"Use Config Settings","Folosește setările de configurare"
+"Use All Available Attributes","Folosește toate atributele disponibile"
+Name,Nume
+Visibility,Vizibilitate
+Position,Poziție
+"Add Subcategory","Subcategorie nouă"
+"Add Root Category","Adăugaţi o categorie principală"
+Day,Zi
+Month,Lună
+Year,An
+from,"de la"
+to,"până la"
+"WYSIWYG Editor","Editor WYSIWYG"
+"Add Product","Adaugă Produs"
+label,etichetă
+"Product Attributes","Atributele produsului"
+"Add New Attribute","Adăugați un atribut nou"
+Cancel,Anulează
+"Save Attribute","Salvează atributul"
+"Save in New Attribute Set","Salvează într-un nou set de atribute"
+Country,Ţară
+State/Province,Stat/Provincie
+"View and Edit Cart","Vezi si Editeaza Cos"
+"View Details","Vezi Detalii"
+"Create an Account","Creează un cont"
+"Account Created:","Contul a fost creat:"
+"Account Created on (%1):","Contul a fost creat la (%1):"
+No,Nu
+Yes,Da
+"My Account","Contul meu"
+"Now Shopping by","Acum cumparand in functie de"
+Previous,Anterior
+"Remove This Item","Înlătură acest produs"
+"Shop By","Cumpara in functie de"
+"Clear All","Șterge tot"
+"Shopping Options","Opțiuni de cumpărături"
+"Welcome to %store_name","Bine ai venit la %store_name"
+"%name,","%nume,"
+"Welcome to %store_name.","Bine ai venit la %store_name."
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pentru a vă conecta la site-ul nostru, folosiți aceste acreditări în timpul finalizării comenzii sau pe pagina <a href=""%customer_url"">Contul meu</a>:"
+Email:,E-mail:
+Password:,Parolă:
+"Password you set when creating account","Parola setată la crearea contului"
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Ți-ai uitat parola contului? Apasă <a href=""%reset_url"">aici</a> pentru a-l reseta."
+"When you sign in to your account, you will be able to:","Când te conectezi la contul tău, vei putea să:"
+"Quick Checkout","Comanda rapida"
+"Proceed through checkout faster","Treci mai repede prin comandă"
+"Order Status","Statusul comenzii"
+"Check the status of orders","Verificați starea comenzilor"
+"Manage Addresses","Gestionare adrese"
+"Store alternative addresses","Salvează adrese alternative"
+"For shipping to multiple family members and friends","Pentru livrare la mai mulți membri de familie și prieteni"
+"Order History","Istoricul comenzilor"
+"View past orders","Vezi comenzile anterioare"
+Footer,Subsol
+"Credit memo for your %store_name order","Nota de credit pentru comanda %store_name"
+"Thank you for your order from %store_name.","Iti multumim pentru comanda facuta la %store_name."
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Poți verifica starea comenzii tale prin <a href=""%account_url"">autentificarea în contul tău</a>."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Daca ai intrebari despre comanda ta, ne poti trimite un email la <a href=""mailto:%store_email"">%store_email</a>."
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Nota ta de credit #%creditmemo_id pentru comanda #%order_id"
+"Billing Info","Informații de facturare"
+"Payment Method","Metodă de plată"
+"Update to your %store_name credit memo","Actualizare legata de credit memo-ul tau la %store_name"
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Comanda ta #%increment_id a fost actualizată cu urmatorul status <strong>%order_status</strong>."
+"Invoice for your %store_name order","Factură pentru comanda %store_name"
+"Your Invoice #%invoice_id for Order #%order_id","Factura ta #%invoice_id pentru comanda #%order_id"
+"Update to your %store_name invoice","Actualizare legata de factura ta %store_name"
+"Your %store_name order confirmation","Confirmarea comenzii %store_name"
+"Once your package ships we will send you a tracking number.","Odată ce pachetele vor fi expediate vă vom trimite un număr de urmărire."
+"Your Order <span class=""no-link"">#%increment_id</span>","Comanda ta <span class=""no-link"">#%increment_id</span>"
+"Placed on <span class=""no-link"">%created_at</span>","Comanda efectuata in data de <span class=""no-link"">%created_at</span>"
+"Update to your %store_name order","Actualizare legata de comanda ta la %store_name"
+"Your %store_name order has shipped","Comanda ta %store_name a fost expediată"
+"Your shipping confirmation is below. Thank you again for your business.","Confirmarea expedierii este mai jos. Vă mulțumim din nou pentru afacerea dumneavoastră."
+"Your Shipment #%shipment_id for Order #%order_id","Expedierea ta #%shipment_id pentru comanda #%order_id"
+"Update to your %store_name shipment","Actualizare legata de transportul comenzii tale la %store_name"
+"Backup options","Opțiuni de backup"
+Warning,Avertizare
+"No records found.","Nu au fost găsite înregistrări."
+"Recent items","Articole recente"
+"Show all...","Arată tot..."
+"Please enter a number greater 0 in this field.","Vă rugăm introduceți un număr mai mare de 0 în acest câmp."
+"Please select one of each ratings above.","Vă rugăm acordați câte o notă pentru fiecare evaluare de mai sus."
+"Please specify Url.","Vă rugăm să specificați URL-ul."
+"Method %s does not exist on jQuery.decorate","Metoda %s nu există în jQuery.decorate"
+Close,Închide
+Next,"Mai departe"
+"Please wait...","Vă rugăm așteptați..."
+Loading...,"Se încarcă..."
+more,"mai mult"
+Translate,Traduceți
+Submit,Trimite
+"Please enter {0} words or less.","Vă rugăm introduceți maxim {0} cuvinte."
+"Please enter at least {0} words.","Introduceți cel puțin {0} cuvinte."
+"Please enter between {0} and {1} words.","Vă rugăm introduceți între {0} și {1} cuvinte."
+"Letters or punctuation only please","Numai litere și semne de punctuație"
+"Letters, numbers, spaces or underscores only please","Numai litere, numere, spații și underscore, vă rugăm"
+"Letters only please","Numai litere vă rugăm"
+"No white space please","Fără spații vă rugăm"
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Codul dumneavostră poștal trebuie să fie între 902xx-xxxx și 905-xx-xxxx"
+"A positive or negative non-decimal number please","Un număr pozitiv sau negativ fără zecimale vă rugăm"
+"The specified vehicle identification number (VIN) is invalid.","Numărul de indentificare a vehiculului (VIN) este invalid."
+"Please enter a correct date","Vă rugăm să introduceți o dată validă"
+"Please enter a valid time, between 00:00 and 23:59","Vă rugăm să introduceți o oră validă, între 00:00 și 23:59"
+"Please enter a valid time, between 00:00 am and 12:00 pm","Vă rugăm să introduceți o oră validă, între 00:00 am și 12:00 pm"
+"Please specify a valid phone number","Vă rugăm să furnizați un număr de telefon valid"
+"Please specify a valid mobile number","Vă rugăm să furnizați un număr de telefon mobil valid"
+"Please enter at least {0} characters","Vă rugăm să introduceți cel puțin {0} caractere"
+"Please remove invalid characters: {0}.","Vă rugăm să ștergeți caracterele invalide: {0}."
+"Please enter a valid credit card number.","Vă rugăm să introduceți un număr de card valid."
+"Please enter a valid IP v4 address.","Vă rugăm să introduceți o adresă IP v4 validă."
+"Please enter a valid IP v6 address.","Vă rugăm să introduceți o adresă IP v6 validă."
+"Invalid format.","Formatul nu este valid."
+"HTML tags are not allowed.","Tag-urile de HTML nu sunt permise."
+"Please select an option.","Vă rugăm selectați o opțiune."
+"Empty Value.","Valoare Nespecificată."
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Vă rugăm folosiți numai litere (a-z or A-Z), numere (0-9) sau spații în acest câmp."
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Vă rugăm folosiți numai litere (a-z or A-Z), numere (0-9) sau underscore(_) în acest câmp, iar primul caracter trebuie să fie o literă."
+"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Vă rugăm folosiți numai litere (a-z or A-Z), numere (0-9), spații sau diez(#) în acest câmp."
+"About us","Despre noi"
+"Customer Service","Serviciu clienti"
+"editaddview","editare adaugare vizualizare"
+"Compare Products","Compara produse"
+"Article","Articole"
